@@ -63,4 +63,4 @@ However, for people who drive longer distances regularly, Metromile perhaps is n
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; According to Metromile's latest financial reports the company's current earnings are -$0.22 billion. </p>
 
-
+![image](Market cap history.png)
