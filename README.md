@@ -10,13 +10,13 @@
       <a href="#Business-Activities">Business Activities</a>
     </li>
     <li>
-      <a href="#Usage">Usage</a>
+      <a href="#Landscape">Landscape</a>
     </li>
     <li>
-      <a href="#Citation">Citation</a>
+      <a href="#Results">Results</a>
     </li>
     <li>
-      <a href="#contact">Contact</a>
+      <a href="#Recommendations">Recommendations</a>
     </li>
   </ol>
 </details>
@@ -63,4 +63,72 @@ However, for people who drive longer distances regularly, Metromile perhaps is n
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; According to Metromile's latest financial reports the company's current earnings are -$0.22 billion. </p>
 
-![image](Market cap history.png)
+![image](Market_cap_history.png)
+
+## Solutions Offered 
+
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; Traditional auto insurance sets rates based on driving history, age, location and credit history, while Metromile offers a different solution. </p>
+
+- Metromile aims to connect more drivers with affordable car insurance options with tailor-made solutions, providing a pay-per-mile insurance service that only charges customers for the amount they drive. 
+
+- The Metromile Pulse device tracks drivers’ mileage. The free device plugs into the car's diagnostic port and transmits data to the insurer. Despite the mileage, average speed, cornering, braking etc., can also be collected.
+
+- The app of Metromile includes a series of features to simplify car ownership, such as street-sweeping alerts, a car health monitor, and a location feature which can recover stolen vehicles. This app is currently available for both Apple iOS and Google Android phones.
+
+  - The company’s software platform provides capabilities like mileage and fuel tracking to help customers stay on top of their energy usage and to simplify the auto insurance system.
+  
+  - Customers can file a claim in the app or online. A guide through each step of the process can facilitate the claim.
+
+## Technologies used
+
+- **Big data and cloud computing**: The device plugs into the diagnostic port of each client’s car and transmits data to the insurer. This is streaming data with high volume, variety, high velocity and high value. Metromile uses cloud computing to store and process large amounts of data. The company's cloud-based infrastructure allows it to scale quickly and efficiently and to provide real-time data analysis to its customers. 
+
+- **Data analytics**: Metromile uses data analytics to analyze customer behaviour and identify trends in the insurance industry. The company's data science team uses machine learning algorithms to develop predictive models that can help identify risky drivers and prevent fraud.
+
+- **Application development**: Metromile offers a mobile app that allows customers to track their mileage, check their billing, and get help with roadside assistance. The app also includes features such as trip optimization, which can help customers find the cheapest gas stations along their routes.
+
+# Landscape
+
+&nbsp;&nbsp;&nbsp;&nbsp; Currently, Metromile offers only personal car insurance.
+
+## What have been the significant trends and innovations in this domain over the last 5–10 years?
+
+- Real-time insurance
+-	As uncertainty declines, pricing becomes fairer and more equitable.
+-	As the world is digitized, insurance operations are automated.
+-	The digitization of the world allows us to understand the physical world in detail and develop products that align incentives for insurers and consumers. It can tailor plan options to what each customer needs.
+-	Removing using the credit score to set rates for car and home insurance 
+
+## What are the other major companies in this domain?
+
+-	Zipari
+-	Next Insurance
+-	Haven Life
+-	Vorvus insurance
+-	Kin
+-	Policygenius
+-	Clearcover
+-	Lemonade
+-	States title
+-	OSCAR health
+
+# Results
+
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; Metromile expanded to several states across the United States, including Washington, California, Oregon, Illinois, Arizona, Virginia, Pennsylvania, and New Jersey. </p>
+
+## Business Impact
+
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; Metromile has had a significant impact on the car insurance industry and the way people think about car insurance. Metromile has embraced technology and data analytics to provide personalized insurance products and services to its customers. The company uses telematics devices to track how much people drive and provide usage-based insurance. It also offers a mobile app that allows customers to track their mileage, check their billing, and get help with roadside assistance.</p>
+
+## Performance
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; Insurance technology companies (insurtechs) like Metromile use a variety of metrics to measure success, some of which include: </p>
+
+-	Customer acquisition cost (CAC): This measure how much it costs to acquire each new customer. Insurtechs typically aim to keep their CAC low to ensure profitability.
+-	Customer lifetime value (CLV): This measure how much revenue a company can expect to generate from a single customer over the course of their relationship. Insurtechs aim to increase CLV by offering additional products and services to their customers.
+-	Loss ratio: This measures the claims paid out to premiums earned. Insurtech aims to keep its loss ratio low to ensure profitability.
+-	Retention rate: This measures the percentage of customers who renew their policies. Insurtech aims to keep its retention rate high by providing excellent customer service and competitive rates.
+
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; Based on publicly available information, Metromile has reported strong performance on several metrics. For example, the company has reported a lower CAC than traditional insurance companies. It has also reported high retention rates, with many customers staying with the company for several years. </p>
+
+# Recommendations
+
