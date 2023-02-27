@@ -152,9 +152,15 @@ However, for people who drive longer distances regularly, Metromile perhaps is n
 
 # Reference
 [https://www.metromile.com/](https://www.metromile.com/)
+
 [https://en.wikipedia.org/wiki/Metromile](https://en.wikipedia.org/wiki/Metromile)
+
 [https://www.youtube.com/watch?v=lZbQROnbW8I](https://www.youtube.com/watch?v=lZbQROnbW8I)
+
 [https://www.nerdwallet.com/article/insurance/auto-insurance-reviews](https://www.nerdwallet.com/article/insurance/auto-insurance-reviews)
+
 [https://www.nerdwallet.com/reviews/insurance/metromile](https://www.nerdwallet.com/reviews/insurance/metromile)
+
 [https://simplywall.st/stocks/us/insurance/nasdaq-mile/metromile](https://simplywall.st/stocks/us/insurance/nasdaq-mile/metromile)
+
 [https://companiesmarketcap.com/metromile/marketcap/](https://companiesmarketcap.com/metromile/marketcap/)
