@@ -81,6 +81,9 @@ However, for people who drive longer distances regularly, Metromile perhaps is n
   - The company’s software platform provides capabilities like mileage and fuel tracking to help customers stay on top of their energy usage and to simplify the auto insurance system.
   
   - Customers can file a claim in the app or online. A guide through each step of the process can facilitate the claim.
+ 
+ 
+![image](device.jpeg)
 
 ## Technologies used
 
@@ -89,6 +92,8 @@ However, for people who drive longer distances regularly, Metromile perhaps is n
 - **Data analytics**: Metromile uses data analytics to analyze customer behaviour and identify trends in the insurance industry. The company's data science team uses machine learning algorithms to develop predictive models that can help identify risky drivers and prevent fraud.
 
 - **Application development**: Metromile offers a mobile app that allows customers to track their mileage, check their billing, and get help with roadside assistance. The app also includes features such as trip optimization, which can help customers find the cheapest gas stations along their routes.
+
+![image](claims.jpeg)
 
 # Landscape
 
