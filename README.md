@@ -18,6 +18,9 @@
     <li>
       <a href="#Recommendations">Recommendations</a>
     </li>
+    <li>
+      <a href="#Reference">Reference</a>
+    </li>
   </ol>
 </details>
 
@@ -132,3 +135,26 @@ However, for people who drive longer distances regularly, Metromile perhaps is n
 
 # Recommendations
 
+&nbsp;&nbsp;&nbsp;&nbsp; If I were to advise the Metromile, I would suggest the following:
+-	Form a better relationship with the customer
+-	Combining a pay-per-mile policy with some traditional policies gives users more flexibility to choose and design their own insurance plans on the app.
+
+## Why would this benefit the company?
+
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;According to NerdWallet’s report, in 2018-2020, Metromile had more than the expected number of complaints about auto insurance to state regulators relative to its size, according to three years’ worth of data from the National Association of Insurance Commissioners. </p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; In addition, Metromile’s market capitalization sharply decreased after the pandemic. One reason is that demand for car travel is increasing as the epidemic ends, and more people drive more than 10,000 miles per year. According to SIMPLY WALL’s report, Metromile is currently unprofitable and not forecast to become profitable over the next 3 years. Over the past 3 months, Metromile has had a volatile share price. </p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; Moreover, some drivers may prefer not to be monitored by the company. </p>
+
+## What technologies would be utilized? Why?
+
+-	A Robo-advising system based on AI to provide more personalized options for customers.
+-	A more powerful application platform to deal with customers' questions and complaints. Lifelike conversational AI tools can be used to communicate with customs more efficiently.
+
+# Reference
+[https://www.metromile.com/](https://www.metromile.com/)
+[https://en.wikipedia.org/wiki/Metromile](https://en.wikipedia.org/wiki/Metromile)
+[https://www.youtube.com/watch?v=lZbQROnbW8I](https://www.youtube.com/watch?v=lZbQROnbW8I)
+[https://www.nerdwallet.com/article/insurance/auto-insurance-reviews](https://www.nerdwallet.com/article/insurance/auto-insurance-reviews)
+[https://www.nerdwallet.com/reviews/insurance/metromile](https://www.nerdwallet.com/reviews/insurance/metromile)
+[https://simplywall.st/stocks/us/insurance/nasdaq-mile/metromile](https://simplywall.st/stocks/us/insurance/nasdaq-mile/metromile)
+[https://companiesmarketcap.com/metromile/marketcap/](https://companiesmarketcap.com/metromile/marketcap/)
