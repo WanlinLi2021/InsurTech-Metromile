@@ -1,4 +1,4 @@
-<h1  align="center"> Case study: Metromile </h1> 
+<h1  align="center"> Case study: Metromile </h1> :car:
 
 <details open>
   <summary>Table of Contents</summary>
@@ -128,7 +128,7 @@ However, for people who drive longer distances regularly, Metromile perhaps is n
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; Metromile has had a significant impact on the car insurance industry and the way people think about car insurance. Metromile has embraced technology and data analytics to provide personalized insurance products and services to its customers. The company uses telematics devices to track how much people drive and provide usage-based insurance. It also offers a mobile app that allows customers to track their mileage, check their billing, and get help with roadside assistance.</p>
 
-## Performance
+## Performance :chart_with_upwards_trend:
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; Insurance technology companies (insurtechs) like Metromile use a variety of metrics to measure success, some of which include: </p>
 
 -	Customer acquisition cost (CAC): This measure how much it costs to acquire each new customer. Insurtechs typically aim to keep their CAC low to ensure profitability.
@@ -138,7 +138,7 @@ However, for people who drive longer distances regularly, Metromile perhaps is n
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; Based on publicly available information, Metromile has reported strong performance on several metrics. For example, the company has reported a lower CAC than traditional insurance companies. It has also reported high retention rates, with many customers staying with the company for several years. </p>
 
-# Recommendations
+# Recommendations :memo:
 
 &nbsp;&nbsp;&nbsp;&nbsp; If I were to advise the Metromile, I would suggest the following:
 -	Form a better relationship with the customer
