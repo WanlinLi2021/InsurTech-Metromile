@@ -138,7 +138,7 @@ However, for people who drive longer distances regularly, Metromile perhaps is n
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp; Based on publicly available information, Metromile has reported strong performance on several metrics. For example, the company has reported a lower CAC than traditional insurance companies. It has also reported high retention rates, with many customers staying with the company for several years. </p>
 
-# Recommendations :memo:
+# Recommendations 
 
 &nbsp;&nbsp;&nbsp;&nbsp; If I were to advise the Metromile, I would suggest the following:
 -	Form a better relationship with the customer
